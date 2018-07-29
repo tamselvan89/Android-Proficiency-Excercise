@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">15dp</dimen>
+
+    <!--TEXT SIZE-->
+    <dimen name="txt_pre_small">10sp</dimen>
+    <dimen name="txt_small">12sp</dimen>
+    <dimen name="txt_medium">14sp</dimen>
+    <dimen name="txt_large">16sp</dimen>
+    <dimen name="txt_extra_large">18sp</dimen>>
+    <dimen name="txt_header">20sp</dimen>
+    <dimen name="txt_password">26sp</dimen>
+
+    <dimen name="progress_size">7dp</dimen>
+
+</resources>

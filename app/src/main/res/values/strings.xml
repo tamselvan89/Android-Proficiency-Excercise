@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProficiencyApp</string>
+    <string name="txt_about_country">About Country</string>
+
+    <string name="try_after_sometime">Please check your internet connection and try again.</string>
+    <string name="txt_progress_loading">Loading...</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <!--ErrorMessages-->
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="alert.error">Something went wrong, please contact the application admin</string>
+    <string name="err.network">Unable to connect the server, please check your internet connection</string>
+    <string name="err.unexpected">Something went wrong with the server, please contact the admin</string>
+    <string name="err.success">Success</string>
+    <string name="err.client">Something went wrong with the server, please contact the admin</string>
+    <string name="err.server">Something went wrong with the server or parser, please contact the admin</string>
+    <string name="err.Unauthentication">Authentication Error, please contact the admin</string>
+</resources>
